@@ -8,7 +8,7 @@
             <sparkle:version>292</sparkle:version>
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/saerdna24/Skjal-releases/releases/download/v1.4.0/Skjal-1.4.0-stapled.zip" length="18687083" type="application/octet-stream" sparkle:edSignature="t/fZFQ8zIHBvLGb4VRaCNg+vle+rUN89DnMyDV0F2PHTwC6QOuqouG2di5XI57gzOna+m6cez9GI4nG0c92XCQ=="/>
+            <enclosure url="https://github.com/saerdna24/Skjal-releases/releases/download/v1.4.0/Skjal-1.4.0.zip" length="18687083" type="application/octet-stream" sparkle:edSignature="t/fZFQ8zIHBvLGb4VRaCNg+vle+rUN89DnMyDV0F2PHTwC6QOuqouG2di5XI57gzOna+m6cez9GI4nG0c92XCQ=="/>
         </item>
     </channel>
 </rss>
