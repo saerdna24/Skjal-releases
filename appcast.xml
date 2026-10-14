@@ -3,12 +3,23 @@
     <channel>
         <title>Skjal</title>
         <item>
+            <title>1.5.0</title>
+            <pubDate>Wed, 14 Oct 2026 10:10:18 +0200</pubDate>
+            <sparkle:version>303</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/saerdna24/Skjal-releases/releases/download/v1.5.0/Skjal-1.5.0.zip" length="18880609" type="application/octet-stream" sparkle:edSignature="HaNp90ht8G7Dlk/Tr+hl+4a4zgyG8zyJEFmCBpvNPJBQq1scEySvPdNkRHlghK+DDOqVxCNQafcrDWDVex3FBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/saerdna24/Skjal-releases/releases/download/v1.5.0/Skjal303-292.delta" sparkle:deltaFrom="292" length="2410630" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PUd7gmr4T2fdX09eYiHOuTjVOz+IZauYn3d/3o+zEIcUdrAHEqYHeejypmoVoGX1x5Phad0l77+/iVb4i/CpAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.4.0</title>
             <pubDate>Tue, 13 Oct 2026 14:14:08 +0200</pubDate>
             <sparkle:version>292</sparkle:version>
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/saerdna24/Skjal-releases/releases/download/v1.4.0/Skjal-1.4.0.zip" length="18687083" type="application/octet-stream" sparkle:edSignature="t/fZFQ8zIHBvLGb4VRaCNg+vle+rUN89DnMyDV0F2PHTwC6QOuqouG2di5XI57gzOna+m6cez9GI4nG0c92XCQ=="/>
+            <enclosure url="https://github.com/saerdna24/Skjal-releases/releases/download/v1.5.0/Skjal-1.4.0.zip" length="18687083" type="application/octet-stream" sparkle:edSignature="t/fZFQ8zIHBvLGb4VRaCNg+vle+rUN89DnMyDV0F2PHTwC6QOuqouG2di5XI57gzOna+m6cez9GI4nG0c92XCQ=="/>
         </item>
     </channel>
 </rss>
