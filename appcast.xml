@@ -3,6 +3,19 @@
     <channel>
         <title>Skjal</title>
         <item>
+            <title>1.6.0</title>
+            <pubDate>Sat, 21 Nov 2026 12:19:34 +0100</pubDate>
+            <sparkle:version>320</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/saerdna24/Skjal-releases/releases/download/v1.6.0/Skjal-1.6.0.zip" length="19086382" type="application/octet-stream" sparkle:edSignature="3yK3oMuoF0908fej9j3pVbKepH+nHa7lQtFCkKjFEqMBOtFdTJExepkUsqqWOk0yZoJFw6UTqwgGABuzDradBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/saerdna24/Skjal-releases/releases/download/v1.6.0/Skjal320-314.delta" sparkle:deltaFrom="314" length="1969542" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yYyMxCY79adFe5KykRGHahZ8JKo4pYJ2fJiZ6IXFFpDtXV1/Sh4+XccHs1beZcwWHyDLJNXzsUeryqFtbA6jBw=="/>
+                <enclosure url="https://github.com/saerdna24/Skjal-releases/releases/download/v1.6.0/Skjal320-303.delta" sparkle:deltaFrom="303" length="2193402" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WCpVYUXl2m1qNwrIvqfVJB2/S9kjS3HkwGFEcyt8KOKnuMBfimWbHAWw7jTafe5xAyECI1z08YLMx3hwAKr3BA=="/>
+                <enclosure url="https://github.com/saerdna24/Skjal-releases/releases/download/v1.6.0/Skjal320-292.delta" sparkle:deltaFrom="292" length="2755210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="p77CS6RIG1kA++RYMiqoDBW6Ta41FE0CGypIPJgHT1s5uUSVSD7lLZQgO2I65yRspseF+Z5nyMG5+01bQjaOAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.5.1</title>
             <pubDate>Tue, 17 Nov 2026 10:11:18 +0100</pubDate>
             <sparkle:version>314</sparkle:version>
@@ -24,14 +37,6 @@
             <sparkle:deltas>
                 <enclosure url="https://github.com/saerdna24/Skjal-releases/releases/download/v1.5.0/Skjal303-292.delta" sparkle:deltaFrom="292" length="2410630" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PUd7gmr4T2fdX09eYiHOuTjVOz+IZauYn3d/3o+zEIcUdrAHEqYHeejypmoVoGX1x5Phad0l77+/iVb4i/CpAQ=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.4.0</title>
-            <pubDate>Tue, 13 Oct 2026 14:14:08 +0200</pubDate>
-            <sparkle:version>292</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/saerdna24/Skjal-releases/releases/download/v1.4.0/Skjal-1.4.0.zip" length="18687083" type="application/octet-stream" sparkle:edSignature="t/fZFQ8zIHBvLGb4VRaCNg+vle+rUN89DnMyDV0F2PHTwC6QOuqouG2di5XI57gzOna+m6cez9GI4nG0c92XCQ=="/>
         </item>
     </channel>
 </rss>
